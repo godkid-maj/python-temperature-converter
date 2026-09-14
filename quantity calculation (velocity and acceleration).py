@@ -1,6 +1,6 @@
 distance = float(input("Enter distance travelled:"))
 time = float(input("enter time taken:"))
-quantity = input("enter quantity,acceleration(A) or velocity(V):")
+quantity= input("enter quantity,acceleration(A) or velocity(V):")
 
 velocity = distance / time
 acceleration = velocity / time
